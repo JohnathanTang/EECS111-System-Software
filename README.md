@@ -1,6 +1,6 @@
 # UCI EECS111: System Software
 
-## bjectives
+## Objectives
 - Understand the basic concepts that underlie operating systems
 - To be able to use operating systems effectively
 - To be able to design concurrent processes with proper synchronization 
