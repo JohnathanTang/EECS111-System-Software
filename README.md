@@ -9,5 +9,10 @@
 - Structure concurrent programs composed of processes and threads
 - Understand basic CPU scheduling techniques 
 
+## Projects 
+1. Fork & Pthread
+2. Thread and Synchronization 
+3. Thread Scheduling
+
 ## Main programming language
 - C++ 
