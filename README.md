@@ -11,9 +11,10 @@
 
 ## Projects 
 1. Fork & Pthread
-  - Understand how to create and use multiple processes and threads to process input data in parallel.
+  - Create and use multiple processes and threads to process input data in parallel.
 2. Thread and Synchronization 
+  - Use thread synchronization and mutex lock and write a code to solve queue problems 
 3. Thread Scheduling
-
+  - Use multithreading to solve a FIFO problem 
 ## Main programming language
 - C++ 
