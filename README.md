@@ -11,7 +11,7 @@
 
 ## Projects 
 1. Fork & Pthread
-- Understand how to create and use multiple processes and threads to process input data in parallel
+  - Understand how to create and use multiple processes and threads to process input data in parallel.
 2. Thread and Synchronization 
 3. Thread Scheduling
 
